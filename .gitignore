@@ -1,0 +1,18 @@
+# JetBrains Intellij Idea
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### node js ###
+node_modules/
+
+### vitepress ###
+.vitepress/dist
+.vitepress/cache
